@@ -1,0 +1,10 @@
+
+
+/* Section page title */
+.page-title{
+    position: relative;
+    display: block;
+    padding-top: 350px;
+    padding-bottom: 50px;
+    color: #fff;
+}
