@@ -13,6 +13,7 @@
     "clear": "^0.1.0",
     "jarallax": "^1.10.7",
     "jquery": "^3.4.1",
+    "owl.carousel": "^2.3.4",
     "popper.js": "^1.15.0"
   }
 }
